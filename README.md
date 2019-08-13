@@ -16,9 +16,9 @@ Depois do seu setup você precisará seguir as seguintes instruções, para cons
 2. Desenvolver um **template wordpress** nas versões **MOBILE** e **DESKTOP**, que tem seu layout em https://zpl.io/bL56P8Q;
 
   * Solicite invite para o projeto
- 
+
 3. Crie um README para documentação do projeto;
-4. **Não submeta o Pull Request**, envie um link do seu repositório para murilo.siqueira@foregon.com
+4. **Não submeta o Pull Request**, envie o **tema wordpress** (caso necessário, envie uma cópia do banco de dados mysql) desenvolvido para lucas.azambuja@foregon.com
 
 
 Critérios de avaliação
