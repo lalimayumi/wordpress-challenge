@@ -18,7 +18,7 @@ Depois do seu setup você precisará seguir as seguintes instruções, para cons
   * Solicite invite para o projeto
 
 3. Crie um README para documentação do projeto;
-4. **Não submeta o Pull Request**, envie o **tema wordpress** (caso necessário, envie uma cópia do banco de dados mysql) desenvolvido para lucas.azambuja@foregon.com
+4. **Não submeta o Pull Request**, envie o **tema wordpress** (caso necessário, envie uma cópia do banco de dados mysql)  lucas.azambuja@foregon.com
 
 
 Critérios de avaliação
