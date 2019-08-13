@@ -24,7 +24,7 @@ Depois do seu setup você precisará seguir as seguintes instruções, para cons
 Critérios de avaliação
 -----
 * PHP 5+;
-* Criação de temaplte/plugins;
+* Criação de temaplate/plugin;
 * SEO;
 * CSS;
 * JS;
