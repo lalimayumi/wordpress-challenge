@@ -24,9 +24,11 @@ Depois do seu setup você precisará seguir as seguintes instruções, para cons
 Critérios de avaliação
 -----
 * PHP 5+;
+* Criação de temaplte/plugins;
 * SEO;
 * CSS;
 * JS;
+* Performance;
 * Semântica Web;
 * Fidelidade ao layout;
 * Design Responsivo;
@@ -35,7 +37,6 @@ Bônus
 -----
 * ES6/7/8;
 * Código modular;
-* Performance;
 * Acessibilidade;
 * Aplicação de médotologias css, preferencialmente BEM CSS;
 * Aplicação de ferramentas, sejam elas transpiladores, pré-processadores, task-runners, bundles, etc.
