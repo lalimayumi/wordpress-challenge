@@ -25,7 +25,7 @@ Critérios de avaliação
 -----
 * PHP 5+;
 * Criação de temaplate/plugin;
-* SEO;
+* SEO
 * CSS;
 * JS;
 * Performance;
